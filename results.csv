@@ -1,0 +1,7 @@
+model,dataset,median_pair_ms_approx,pose_success_fraction_approx,provenance
+SuperPoint + LightGlue,JB3D,60,0.42,rounded reading of an earlier experiment plot
+SuperPoint + LightGlue,SUES-200,40,,rounded reading of an earlier experiment plot
+LoFTR,JB3D,165,0.50,rounded reading of an earlier experiment plot
+LoFTR,SUES-200,170,,rounded reading of an earlier experiment plot
+RoMa,JB3D,810,0.67,rounded reading of an earlier experiment plot
+RoMa,SUES-200,800,,rounded reading of an earlier experiment plot
